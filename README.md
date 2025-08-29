@@ -30,5 +30,3 @@ Modifies the PE header of 32-bit executables to set the `LARGE_ADDRESS_AWARE` fl
 # Enable 4GB support
 .\Enable-LargeAddressAware.ps1 "path\to\your\app.exe"
 ```
-## GitHub Topics/Tags
-powershell, windows, pe-header, memory-management, 32bit, gaming, executable-modification, 4gb-patch, large-address-aware
